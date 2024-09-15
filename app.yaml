@@ -1,0 +1,6 @@
+domains:
+- astro-starter-xuseronline.wasmer.app
+kind: wasmer.io/App.v0
+name: rvhcloud-astro-starter
+owner: rvhcloud
+package: .
